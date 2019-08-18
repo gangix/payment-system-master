@@ -1,3 +1,5 @@
+Api Documantation  :http://localhost:8080/swagger-ui.html#/
+
 
 # Payment Service Code Challenge
 
